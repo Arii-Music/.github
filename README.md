@@ -1,6 +1,5 @@
-## Ari Music | Performance with simple commands
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arii-Music&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Arii-Music&label=Profile%20views&color=#bbd8ff&style=flat" />
 </p>
 
 <p align="center">
