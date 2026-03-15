@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arii-Music&label=Profile%20views&color=bbd8f&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Arii-Music&label=Profile%20views&color=bbd8ff&style=flat" />
 </p>
 
 <p align="center">
